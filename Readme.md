@@ -1,4 +1,4 @@
-# Parameter_LibPipeline
+# Parameter Library Pipeline
 
 The pipeline generates a new Parameter table from the manuscript.
 
